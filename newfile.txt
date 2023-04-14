@@ -3,3 +3,6 @@ postman me push hoo ja
 
 
 firse check kar rha 
+
+
+pushing code to gitHub
